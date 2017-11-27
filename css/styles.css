@@ -1,0 +1,19 @@
+.gallery {
+
+}
+
+.movie {
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.movie img {
+  width: 90%;
+}
+
+.release-date {
+  font-size: 1.2em;
+  font-weight: bold;
+}
